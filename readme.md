@@ -7,3 +7,6 @@ To train ML model and save it
 
 Step 2: streamlit run app.py
 To get desired output
+
+## Comtributor 
+1.Nandini Khandade
